@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cuenta</string>
+    <string name="txt_email">Ingresa tu correo</string>
+    <string name="txt_password">Ingresa una contraseña</string>
+    <string name="txt_name">Ingresa tu nombre</string>
+    <string name="txt_SignIn">Ingresar</string>
+    <string name="txt_SignUp">Registrar</string>
+    <string name="txt_SignOut">Salir</string>
+    <string name="txt_create_an_account">Crear una cuenta</string>
+    <string name="txt_you_have_an_account">Ya tengo una cuenta</string>
+    <string name="txt_Show">Cargando, por favor espere...</string>
+</resources>
